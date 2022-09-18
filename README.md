@@ -1,2 +1,2 @@
 # Layers
-adal and requests layer
+requests layer
